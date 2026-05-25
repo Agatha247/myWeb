@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff0f5;
+    text-align: center;
+}
+ header{
+    background-color: pink;
+    padding: 40px;
+ }
+ header h1{
+    margin: 0;
+    font-size:10px;
+
+ }
+  section{
+    padding:5px;
+  }
+
+
+ul{
+   list-style: inside; 
+    padding: 0;
+}
+li{
+    background-color: white;
+    margin: 10px auto;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 15px 25px;
+    border:none;
+    border-radius: 10px;
+
+}
+ button:hover{
+    background-color: hotpink;
+ }
+ img{
+    width: 120px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 0;
+ }
+
+ .brand{
+    margin-top: 10px;
+ }
